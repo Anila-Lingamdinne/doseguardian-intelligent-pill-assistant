@@ -52,10 +52,7 @@ This system ensures better medication adherence by notifying users and tracking 
 
 ### 🔹 1️⃣ RTC Time Display
 
-```
-12:30:45
-18/04/2026
-```
+<img width="1203" height="820" alt="RTC" src="https://github.com/user-attachments/assets/27a38763-08c8-4a92-95df-08d03846f2fb" />
 
 * Displays real-time clock
 * Continuously updates every second ⏱️
@@ -64,11 +61,7 @@ This system ensures better medication adherence by notifying users and tracking 
 
 ### 🔹 2️⃣ Main Menu Screen
 
-```
-1.RTC  2.MED
-3.EXIT
-```
-<img width="1203" height="820" alt="RTC" src="https://github.com/user-attachments/assets/27a38763-08c8-4a92-95df-08d03846f2fb" />
+<img width="1200" height="819" alt="MENU" src="https://github.com/user-attachments/assets/a39dee94-e8c0-4f6b-847d-5b7de0b753d1" />
 
 
 * User navigates using keypad
@@ -78,9 +71,7 @@ This system ensures better medication adherence by notifying users and tracking 
 
 ### 🔹 3️⃣ Medicine Alert
 
-```
-TAKE MED NOW
-```
+<img width="1205" height="844" alt="TAKE_MED" src="https://github.com/user-attachments/assets/217df2df-69ab-406d-953d-339a44e66f25" />
 
 * Triggered when RTC time matches medicine time
 * 🔔 Buzzer ON
@@ -90,9 +81,8 @@ TAKE MED NOW
 
 ### 🔹 4️⃣ Medicine Taken Confirmation
 
-```
-MED TAKEN
-```
+<img width="1203" height="840" alt="MED_TAKEN" src="https://github.com/user-attachments/assets/cea2be5e-8d71-4d56-a683-9fbbc67d954b" />
+
 
 * User presses switch
 * 🔕 Buzzer OFF
@@ -103,9 +93,7 @@ MED TAKEN
 
 ### 🔹 5️⃣ Medicine Missed Alert
 
-```
-MED MISSED
-```
+<img width="1186" height="831" alt="FAILED_MED" src="https://github.com/user-attachments/assets/c21d6966-8e98-4058-ad2c-59e80b15d3cd" />
 
 * Triggered if user does not respond
 * 🔕 Buzzer OFF
